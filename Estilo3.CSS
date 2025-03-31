@@ -1,0 +1,44 @@
+body{
+    background-color:hsl(0, 0%, 83%);
+    color: black;
+    background-image: url(fondo\ css2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+h1{
+    background-color:hwb(0 27% 72%);
+    padding: 20px 60px;
+    border-width: 5px ;
+    border-color: hwb(235 5% 64%);
+    border-radius: 20px;
+    border-style:double;
+    color: black;
+    font-family: cursive;
+    font: size: 20px;
+    font-weigtht:700;
+    text-align:center;
+}
+
+form{
+    padding: 6px 10px;
+    border-width: 6px 10px ;
+    border-radius: 20px;
+    border-style:double;
+    background-image: url(gray-aesthetic-sad-q381j5j38d8de2d9.jpg);
+}
+input{
+    border-radius: 20px;
+}
+a{
+    background-color:rgb(104, 100, 100);
+    padding: 6px 10px;
+    border-width: 5px ;
+    border-color: hsl(240, 93%, 16%);
+    border-radius: 20px;
+    border-style:double;  
+}
+form{
+padding: 30px 100px;
+}

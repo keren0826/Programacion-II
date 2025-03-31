@@ -1,0 +1,57 @@
+body{
+    padding: 10px;
+    background-color:hwb(187 4% 15%);
+    background-image: url(1.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    background-color:rgb(23, 185, 239);
+    padding: 6px 10px;
+    border-width: 5px ;
+    border-color: hsla(0, 18%, 8%, 0.835);
+    border-radius: 20px;
+    border-style:double;
+    color: #000000;
+    font-family: cursive;
+    font: size: 20px;
+    font-weigtht: 700;
+    text-align:center;
+    }
+button{
+    border-color: aqua;
+    border-style: double;
+}
+div{
+    padding: 6px 10px;
+    border-width: 6px 10px ;
+    border-radius: 20px;
+    border-style:double; 
+}
+form{
+    padding: 6px 10px;
+    border-width: 6px 10px ;
+    border-radius: 20px;
+    border-style:double;
+    background-image: url(wallpaper-liso-63-descargar-4k-wallpapers-gratis.-fondo-de-pantalla-lisos.jpg);
+img{
+border-radius: 10%;
+}
+input {
+    padding: 6px 10px;
+    border-width: 6px 10px ;
+    border-radius: 20px;
+    border-style:double; 
+
+}
+button{
+    padding: 6px 10px;
+    border-width: 6px 10px ;
+    border-radius: 20px;
+    border-style:double; 
+
+}
+div{
+.sombra 
+}

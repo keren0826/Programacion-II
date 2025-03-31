@@ -1,0 +1,21 @@
+h1{
+    background-color:rgb(75, 41, 149);
+    padding: 20px 60px;
+    border-width: 5px ;
+    border-color: rgb(22, 15, 22);
+    border-radius: 20px;
+    border-style:double;
+    color: hwb(300 96% 3%);
+    font-family: cursive;
+    font: size:20px;
+    font-weigtht:700;
+    text-align:center;
+}
+form{
+    background-color: rgb(75, 41, 149);
+    padding: 6px 10px;
+    border-width: 6px 10px ;
+    border-radius: 20px;
+    border-style:double;
+    background-image: url(iphone-16-pro-titanio-blanco-wallpaper.jpeg);
+}
